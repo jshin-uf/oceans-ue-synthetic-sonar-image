@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UUV_CPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{79A200D0-073C-4374-BE08-AAF4C99C0120}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UUV_CPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UUV_CPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5EDD7B4D-F019-45DB-844E-12E351550E11}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UUV_CPP">
+      <UniqueIdentifier>{587F7709-98C9-4036-A1BE-F6339C0ECD2A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UUV_CPP\DebugCamera.cpp">
+      <Filter>Source\UUV_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UUV_CPP\DebugCamera.h">
+      <Filter>Source\UUV_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UUV_CPP\ImgGen_wObj_staticCam_objActor.cpp">
+      <Filter>Source\UUV_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UUV_CPP\ImgGen_wObj_staticCam_objActor.h">
+      <Filter>Source\UUV_CPP</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UUV_CPP\UUV_CPP.Build.cs">
+      <Filter>Source\UUV_CPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UUV_CPP\UUV_CPP.cpp">
+      <Filter>Source\UUV_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UUV_CPP\UUV_CPP.h">
+      <Filter>Source\UUV_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UUV_CPP\UUV_CPPGameModeBase.cpp">
+      <Filter>Source\UUV_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UUV_CPP\UUV_CPPGameModeBase.h">
+      <Filter>Source\UUV_CPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

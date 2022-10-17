@@ -1,0 +1,13 @@
+﻿  Creating makefile for UUV_CPPEditor (source directory changed)
+  Using Visual Studio 2017 14.32.31326 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 16 processes...
+    [1/3] ImgGen_wObj_staticCam_objActor.cpp
+E:\Unreal\Release\UUV_CPP\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(2309): warning C4946: reinterpret_cast used between related classes: 'cv::Matx<double,4,1>' and 'cv::Scalar_<double>'
+    E:\Unreal\Release\UUV_CPP\ThirdParty\OpenCV\Includes\opencv2/core/matx.hpp(229): note: see declaration of 'cv::Matx<double,4,1>'
+    E:\Unreal\Release\UUV_CPP\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(664): note: see declaration of 'cv::Scalar_<double>'
+    [2/3] UE4Editor-UUV_CPP.lib
+       Creating library E:\Unreal\Release\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\UE4Editor-UUV_CPP.lib and object E:\Unreal\Release\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\UE4Editor-UUV_CPP.exp
+    [3/3] UE4Editor-UUV_CPP.dll
+       Creating library E:\Unreal\Release\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\UE4Editor-UUV_CPP.suppressed.lib and object E:\Unreal\Release\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\UE4Editor-UUV_CPP.suppressed.exp
+  Deploying UUV_CPPEditor Win64 Development...
+  Total build time: 10.90 seconds (Parallel executor: 3.57 seconds)

@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UUV_CPP-6292.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UUV_CPPEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\DebugCamera.cpp.obj"
+"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\Image_Generator_wObject.cpp.obj"
+"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\LineOfTargets.cpp.obj"
+"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\TargetConstructor.cpp.obj"
+"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\UUV_CPP.cpp.obj"
+"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\UUV_CPPGameModeBase.cpp.obj"
+"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\DebugCamera.gen.cpp.obj"
+"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\Image_Generator_wObject.gen.cpp.obj"
+"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\LineOfTargets.gen.cpp.obj"
+"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\TargetConstructor.gen.cpp.obj"
+"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\UUV_CPP.init.gen.cpp.obj"
+"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\UUV_CPPGameModeBase.gen.cpp.obj"
+"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\PCLaunch.rc.res"
+/OUT:"C:\Users\tonyc\Documents\Unreal Projects\UUV_CPP\Intermediate\Build\Win64\UE4Editor\Development\UUV_CPP\UE4Editor-UUV_CPP-6292.lib"
