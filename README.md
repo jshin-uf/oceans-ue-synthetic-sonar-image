@@ -24,9 +24,11 @@ This paper presents a novel simulation tool, developed in the 3D training, visua
 
 Other dependencies will be installed while installing Unreal Engine.
 
-## Setting Up the UE Project
-
-## Demo
+## Usage and Demo
+* Change the path to the target feature csv file in [ImgGen_wObj_staticCam_objActor.h](/UUV_CPP/Source/UUV_CPP/ImgGen_wObj_staticCam_objActor.h).
+* [Compile the UE project](https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/DevelopmentSetup/CompilingProjects/).
+* Open the project in Unreal Engine editor, and load the [pre-configured level](UUV_CPP/Content/Sonar_Image_Simulation/SonarImg_Sim_StationaryCam_OceanPaper.umap).
+* Click the 'Play' button.
 
 ## Cite
 Please cite our work if you find it useful:
