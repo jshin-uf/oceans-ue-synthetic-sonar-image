@@ -2,7 +2,7 @@
 
 This repository contains the Unreal Engine Project of the paper:
 
-[An Unreal Engine Sonar Simulation Tool for Recreating Unmanned Underwater Imaging Subject to Complex Seabed Conditions](linktopaper). 
+[An Unreal Engine Sonar Simulation Tool for Recreating Unmanned Underwater Imaging Subject to Complex Seabed Conditions](https://doi.org/10.48550/arXiv.2210.10267). 
 <br>
 [Jane Shin*](https://mae.ufl.edu/people/faculty/primary/profiles/jane-jaejeong-shin/), 
 [Shi Chang*](https://lisc.mae.cornell.edu/wordpress/?page_id=28),
